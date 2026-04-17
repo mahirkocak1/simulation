@@ -43,7 +43,6 @@ body {
   box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
 }
 
-/* KARTLARIN IZGARASI (GRID) */
 .user-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
